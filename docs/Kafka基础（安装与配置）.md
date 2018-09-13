@@ -56,7 +56,7 @@ listeners=PLAINTEXT://:9092
 # returned from java.net.InetAddress.getCanonicalHostName().
 advertised.listeners=PLAINTEXT://服务器IP:9092
 ```
-如果是进行localhost本地测试，可按如下配置
+如果是进行localhost本地测试，可按如下配置；（下面的测试，就是基于本地服务进行）
 ```
 listeners=PLAINTEXT://127.0.0.1:9092
 advertised.listeners=PLAINTEXT://127.0.0.1:9092
