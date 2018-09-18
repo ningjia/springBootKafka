@@ -88,5 +88,6 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --f
 可以将生产者所产生的消息，输出到控制台。
 ## 6. Refer 
 - [官方QuickStart文档](https://kafka.apache.org/quickstart)
+- [Kafka中文站](http://kafka.apachecn.org) ：介绍、快速开始、案例、文档
 - [Apache Kafka 入门 - 基本配置和运行](https://blog.csdn.net/isea533/article/details/73611035) : 包含基础的配置内容
 - [kafka快速开始教程](https://www.jianshu.com/p/efc8b9dbd3bd) ： 包含代理集群、Kafka Connect、Kafka Streams等高级内容
